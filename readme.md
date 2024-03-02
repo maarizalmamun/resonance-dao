@@ -1,6 +1,3 @@
-# This documentation draft for your web3 startup project, "Resonance DAO," is designed to provide a comprehensive overview of the project's architecture, components, integrations, and future plans. It outlines the innovative approach of your platform in combining cryptocurrency investment with philanthropy and the technical details of how the platform is built and operates.
-
----
 
 # Resonance DAO Documentation
 
